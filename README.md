@@ -476,6 +476,10 @@ git checkout -b temp        # 여기서 한 작업을 살리려면 브랜치를 
 - [Git 공식 문서](https://git-scm.com/docs)
 - [GitHub CLI](https://cli.github.com/manual/)
 09:21 여러분의 FORK 후 새로 데이터가 업데이트 되었습니다.
+09:35 김예지의 0904_lecture branch에서 작업한 내용입니다.
+
+# git stash: 다른 브랜치로 넘어갈 때 임시저장 (commit 권장)
+09:35 이승태의 0904_seungtae branch에서 작업한 내용입니다.
 
 09:35 김소정의 0904_sojung branch에서 작업한 내용입니다.
 
