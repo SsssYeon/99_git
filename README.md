@@ -477,6 +477,9 @@ git checkout -b temp        # 여기서 한 작업을 살리려면 브랜치를 
 - [GitHub CLI](https://cli.github.com/manual/)
 09:21 여러분의 FORK 후 새로 데이터가 업데이트 되었습니다.
 
+09:35 송준표의 0904_jpyo에서 작업한 내용입니다.
+
+10:15 송준표의 0904_jpyo에서 추가로 작성한 내용입니다.
 
 09:35 박서영의 0904_seoyoung branch에서 작업한 내용입니다.
 
